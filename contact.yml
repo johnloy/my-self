@@ -1,7 +1,8 @@
 ---
 email:
   primary: john@johnloy.net
-  personal:
+  home:
     - john@johnloy.net 
     - loy.john@gmail.com
   work:
+    - john.loy@willowtreeapps.com
